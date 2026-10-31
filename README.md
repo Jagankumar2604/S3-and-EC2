@@ -125,7 +125,7 @@ student-cloud-storage-001
 
 ### OUTPUT
 
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/5a800b09-199e-44c5-8a59-9454eb225c69" />
+<img width="1696" height="783" alt="Capture20261031110743" src="https://github.com/user-attachments/assets/c5b4e7e4-1747-43fd-b17c-5cf00f6df376" />
 
 
 ---
@@ -209,7 +209,7 @@ Running
 
 ### OUTPUT
 
-<img width="1917" height="1017" alt="Screenshot 2026-10-31 102646" src="https://github.com/user-attachments/assets/e0763235-9753-45a6-a97a-b2c5234e48cb" />
+<img width="1840" height="854" alt="image" src="https://github.com/user-attachments/assets/b8b9c5e3-f6ce-47ed-a23b-51da5aaefe9f" />
 
 
 ---
@@ -253,7 +253,7 @@ Hello AWS
 
 ### OUTPUT
 
-<img width="1917" height="1023" alt="Screenshot 2026-10-31 105050" src="https://github.com/user-attachments/assets/f4ad0e1c-a93b-4b34-85c0-74fc2bd349fa" />
+<img width="1917" height="1023" alt="Screenshot 2026-10-31 105050" src="https://github.com/user-attachments/assets/689a7c17-fb2c-4d3e-a465-7520a2a00551" />
 
 
 ---
@@ -292,7 +292,7 @@ Stopped
 
 ### OUTPUT
 
-<img width="1917" height="967" alt="Screenshot 2026-10-31 105624" src="https://github.com/user-attachments/assets/4762d273-cabf-419c-a59b-2a4293f9061a" />
+<img width="1917" height="967" alt="Screenshot 2026-10-31 105624" src="https://github.com/user-attachments/assets/470ec088-6d18-47df-b5f8-f14baaae8dcf" />
 
 
 ---
